@@ -1,0 +1,28 @@
+1. Headword
+1.1 Variant spellings are given before the definition (e.g. cabby n. (also cabbie)); in all such cases the form given as the headword is the preferred form. When the variant form is alphabetically remote from the main form it is given at its proper place in the dictionary (e.g. caiman var. of *cayman).
+1.2 Words that are different but spelt the same way (homographs) are distinguished by superior figures (e.g. bat1 and bat2).
+1.3 Words that are normally spelt with a capital initial are given in this form as the headword; when they are in some senses spelt with a small initial and in others with a capital initial this is indicated by repetition of the full word in the appropriate form within the entry (as at carboniferous).
+1.4 Variant American spellings are indicated by the designation US (e.g. favour … US favor). If you enter the American spelling in the keyword edit box, you have direct access to the corresponding entry for the British variant.
+
+2. Part-of-speech label
+2.1 This is given for all main entries and derivatives.
+2.2 Different parts of speech of a single word are listed separately.
+2.3 Verbs, whether transitive, intransitive, or both, are given the simple designation v. The designation absol. (absolute) denotes use with an implied object (as at abdicate).
+
+3. Inflexion
+3.1 Plurals of Nouns:
+Nouns that form their plural regularly by adding -s (or -es when they end in -s, -x, -z, -sh, or soft -ch), receive no comment. Plural forms of those ending in -o (preceded by any letter other than another o) are always given. Other irregular forms are also given, except when the word is a compound of obvious formation (e.g. footman, schoolchild).
+3.2 Forms of Verbs:
+3.2.1 The following regular forms receive no comment:
+(i) third person singular present forms adding -s to the stem (or -es to stems ending in -s, -x, -z, -sh, or soft -ch).
+(ii) past tenses and past participles adding -ed to the stem.
+3.2.2 A doubled consonant in verbal inflexions (e.g. rubbed, rubbing, sinned, sinning) is shown in the form (-bb-, -nn-, etc.). Where practice differs in American usage this is noted (as at cavil).
+3.3 Comparative and Superlative of Adjectives and Adverbs:
+The following regular forms receive no comment:
+3.3.1 Words of one syllable adding -er and -est (e.g. greater, greatest).
+3.3.2 Words of one syllable ending in silent e, which drop the e and add -er and -est (e.g. braver, bravest).
+
+4. Definition
+4.1 Definitions are listed in order of comparative familiarity and importance, with the most current and important senses first.
+4.2 They are separated by a number, or by a letter when the two senses are more closely related.
+4.3 Round brackets enclose letters or words that are optional (as at crash v. where ‘(cause to) make a loud smashing noise’ can mean either ‘make a loud smashing noise’ or ‘cause to make a loud smashing noise’), and indicate typical objects of transitive verbs (such as ‘milk’ and ‘the skin’ in two senses of cream v.).

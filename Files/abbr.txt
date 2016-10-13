@@ -1,0 +1,135 @@
+abbr.		abbreviation
+absol.		absolute(ly)
+adj.		adjective
+adv.		adverb
+Aeron.		Aeronautics
+Anat.		Anatomy
+Anglo-Ind.	Anglo-Indian
+Antiq.		Antiquity
+Archaeol.	Archaeology
+Archit.		Architecture
+assim.		assimilated
+Astrol.		Astrology
+Astron.		Astronomy
+Astronaut.	Astronautics
+attrib.		attributive(ly)
+attrib. adj.	attributive adjective
+Austral.	Australian
+aux.		auxiliary
+Bibl.		Biblical
+Biochem.	Biochemistry
+Biol.		Biology
+Bot.		Botany
+Chem.		Chemistry
+Cinematog.	Cinematography
+collect.	collective(ly)
+colloq.		colloquial(ly)
+comb.		combination; combining
+compar.		comparative
+compl.		complement
+conj.		conjunction
+contr.		contraction
+demons. adj.	demonstrative adjective
+demons. pron.	demonstrative pronoun
+derog.		derogatory
+dial.		dialect
+Eccl.		Ecclesiastical
+Econ.		Economics
+Electr.		Electricity
+ellipt.		elliptical(ly)
+emphat.		emphatic
+esp.		especially
+euphem.		euphemism
+Exod.		Exodus
+fem.		feminine
+foll. 		followed
+Gen. 		Genesis
+Geol.		Geology
+Geom. 		Geometry
+Gk 		Greek
+Gram. 		Grammar
+Hist.		History
+hist. 		with historical reference
+imper. 		imperative
+Ind. 		of the subcontinent comprising India, Pakistan, and Bangladesh
+infin.		infinitive
+int. 		interjection
+interrog.	interrogative
+interrog. adj.	interrogative adjective
+interrog. adv. 	interrogative adverb
+interrog. pron.	interrogative pronoun
+Ir. 		Irish
+iron. 		ironical
+joc.		jocular
+Judg. 		Judges
+Lev. 		Leviticus
+masc. 		masculine
+Math. 		Mathematics
+Matt. 		Matthew
+Mech. 		Mechanics
+Med. 		Medicine
+Meteorol.	Meteorology
+Mil.		Military
+Mineral.	Mineralogy
+Mus.		Music
+Mythol.		Mythology
+n.		noun
+Naut.		Nautical
+neg.		negative
+N.Engl.		Northern English
+n.pl.		noun plural
+NZ		New Zealand
+obj.		objective
+offens.		offensive
+opp.		as opposed to
+orig.		originally
+Parl.		Parliament(ary)
+part.		participle
+past part.	past participle
+Pharm.		Pharmacy; Pharmacology
+Philos.		Philosophy
+Phonet.		Phonetics
+Photog.		Photography
+phr. 		phrase
+Physiol.	Physiology
+pl. 		plural
+poet. 		poetical
+Polit. 		Politics
+poss. 		possessive (case)
+poss. 		pron. possessive pronoun
+prec. 		preceded
+predic.		predicative(ly)
+predic. adj.	predicative adjective
+prep. 		preposition
+pres. 		present
+pres. part. 	present participle
+pron. 		pronoun
+pronunc. 	pronunciation
+propr. 		proprietary term
+Psychol. 	Psychology
+RC Ch. 		Roman Catholic Church
+ref. 		reference
+refl. 		reflexive
+rel. adj. 	relative adjective
+rel. adv.	relative adverb
+Relig. 		Religion
+rel. pron. 	relative pronoun
+Rev. 		Revelations
+rhet. 		rhetorical
+Rom. 		Roman
+S.Afr. 		South African
+Sc. 		Scottish
+Sci. 		Science
+sing.		singular
+Stock Exch.	Stock Exchange
+superl.		superlative
+symb.		symbol
+Theatr.		Theatre
+Theol.		Theology
+US		American, in American use
+usu.		usually
+v.		verb
+var.		variant(s)
+v.aux.		auxiliary verb
+v.refl.		reflexive verb
+Zool.		Zoology
