@@ -1,6 +1,6 @@
 # AED
 # Author Divesh Uttamchandani <diveshuttamchandani@gmail.com>
-[BITS-Pilani](www.bits-pilani.ac.in/spp/f2016045) | [GitHub](https://github.com/diveshuttam) | [LinkedIn](https://www.linkedin.com/in/diveshuttam/)
+#[BITS-Pilani](www.bits-pilani.ac.in/spp/f2016045) | [GitHub](https://github.com/diveshuttam) | [LinkedIn](https://www.linkedin.com/in/diveshuttam/)   
 Advance English Dictionary.
 
 This is my class xii CBSE project.
