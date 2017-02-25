@@ -11,5 +11,5 @@ So for those who are running windows newer than windows xp can run Turbo c++ usi
 The definations of the words file wasn't added to the repository as it is larger than 100 mb. You could request it on my email.
 
 For all other details refer to the report folder containig all the source code and screen shots in portable document format (pdf).
-Along with a html file for index.on
+Along with a html file for index.
 #last updated 13/10/2016 9:37 (GMT +5:30)
