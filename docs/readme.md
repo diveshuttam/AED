@@ -12,8 +12,8 @@ The definations of the words file wasn't added to the repository as it is larger
 
   
 # Index
-1)  [Cover Page](./REPORT/Pdf/1)Cover.pdf)
-2)  [Certificate](REPORT/Pdf/2)Certificate.pdf)
+1)  [Cover Page](./REPORT/Pdf/Cover.pdf)
+2)  [Certificate](REPORT/Pdf/Certificate.pdf)
 
 For all other details refer to the report folder containig all the source code and screen shots in portable document format (pdf).
 Along with a html file for index.
