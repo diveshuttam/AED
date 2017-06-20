@@ -7,7 +7,7 @@ Profiles:
 
 This is my class XII CBSE project.
 This project aims at making a feasible dictionary in a simple GUI environment.It is designed to compile with Turbo C++.
-So for those who are running windows newer than windows xp can run Turbo c++ using [DOSBox] (http://www.dosbox.com/) (a free Dos Emulator).
+So for those who are running windows newer than windows xp can run Turbo c++ using [DOSBox](http://www.dosbox.com/) (a free Dos Emulator).
 The definations of the words file wasn't added to the repository as it is larger than 100 mb. You could request it on my email.
 
   
